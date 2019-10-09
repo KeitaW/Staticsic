@@ -1,1 +1,1 @@
-# Staticsic
+# Staticsics
